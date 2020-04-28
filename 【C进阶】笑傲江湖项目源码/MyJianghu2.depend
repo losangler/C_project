@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1479278760 source:d:\cspace\myjianghu2\gamelib.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<stdarg.h>
+	"GameLib.h"
+
+1479278795 d:\cspace\myjianghu2\gamelib.h
+	<windows.h>
+	<time.h>
+
+1479278729 source:d:\cspace\myjianghu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GameLib.h"
+	"Game.h"
+
+1479291089 source:d:\cspace\myjianghu2\game.c
+	"Game.h"
+	"Player.h"
+
+1479290683 d:\cspace\myjianghu2\game.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GameLib.h"
+	"Player.h"
+
+1479285711 source:d:\cspace\myjianghu2\player.c
+	"Player.h"
+
+1479265758 d:\cspace\myjianghu2\player.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1479719262 source:c:\users\xuetang9\documents\cspace\myjianghu2\game.c
+	"Game.h"
+	"Player.h"
+
+1479718269 c:\users\xuetang9\documents\cspace\myjianghu2\game.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GameLib.h"
+	"Player.h"
+
+1479278795 c:\users\xuetang9\documents\cspace\myjianghu2\gamelib.h
+	<windows.h>
+	<time.h>
+
+1479718006 c:\users\xuetang9\documents\cspace\myjianghu2\player.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1479614327 source:c:\users\xuetang9\documents\cspace\myjianghu2\gamelib.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<stdarg.h>
+	"GameLib.h"
+
+1479685631 source:c:\users\xuetang9\documents\cspace\myjianghu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GameLib.h"
+	"Game.h"
+
+1479719308 source:c:\users\xuetang9\documents\cspace\myjianghu2\player.c
+	"Player.h"
+
