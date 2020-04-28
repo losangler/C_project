@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536823776 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\c++直播课件\mycppworkspace\preparesource\chapter12demo\main.cpp
+	<iostream>
+	"Time.h"
+
+1536650258 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\c++直播课件\mycppworkspace\preparesource\chapter12demo\src\time.cpp
+	"Time.h"
+
+1536823968 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\c++直播课件\mycppworkspace\preparesource\chapter12demo\include\time.h
+	<iostream>
+

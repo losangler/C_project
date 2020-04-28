@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1496826250 source:f:\mycppworkspace\chapter9\main.cpp
+	<iostream>
+	<cmath>
+	"GzDemo.h"
+	"EWDemo.h"
+
+1496825837 f:\mycppworkspace\chapter9\gzdemo.h
+	<iostream>
+
+1496826318 f:\mycppworkspace\chapter9\ewdemo.h
+	<iostream>
+

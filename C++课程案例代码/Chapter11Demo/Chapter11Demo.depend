@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1511700221 source:c:\users\窖头\documents\cproject\chapter11demo\main.cpp
+	<iostream>
+	"LandOwnerV1.hpp"
+	"LandOwnerV2.h"
+	"LandOwnerV3.h"
+	"LandOwnerV4.h"
+	"Student.h"
+	"LandOwner.h"
+
+1511679438 c:\users\窖头\documents\cproject\chapter11demo\include\landownerv1.hpp
+	<iostream>
+
+1511679743 source:c:\users\窖头\documents\cproject\chapter11demo\src\landownerv2.cpp
+	"LandOwnerV2.h"
+
+1511679740 c:\users\窖头\documents\cproject\chapter11demo\include\landownerv2.h
+	<iostream>
+
+1511682893 c:\users\窖头\documents\cproject\chapter11demo\include\landownerv3.h
+	<iostream>
+
+1511682010 source:c:\users\窖头\documents\cproject\chapter11demo\src\landownerv3.cpp
+	"LandOwnerV3.h"
+
+1511684248 source:c:\users\窖头\documents\cproject\chapter11demo\src\landownerv4.cpp
+	"LandOwnerV4.h"
+
+1511683878 c:\users\窖头\documents\cproject\chapter11demo\include\landownerv4.h
+	<iostream>
+	<memory.h>
+
+1511700313 c:\users\窖头\documents\cproject\chapter11demo\include\student.h
+	<iostream>
+
+1511699916 source:c:\users\窖头\documents\cproject\chapter11demo\src\student.cpp
+	"Student.h"
+
+1511690938 c:\users\窖头\documents\cproject\chapter11demo\include\landowner.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<iterator>
+	<algorithm>
+
+1511691299 source:c:\users\窖头\documents\cproject\chapter11demo\src\landowner.cpp
+	"LandOwner.h"
+

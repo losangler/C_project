@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1497533276 source:f:\mycppworkspace\filedemo_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FGetcAndFPutcDemo.h"
+	"FGetsAndFPutsDemo.h"
+	"FPrintfAndFScanfDemo.h"
+	"FSeekAndFtellDemo.h"
+
+1497530959 f:\mycppworkspace\filedemo_c\fgetcandfputcdemo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497531841 f:\mycppworkspace\filedemo_c\fgetsandfputsdemo.h
+
+1497532506 f:\mycppworkspace\filedemo_c\fprintfandfscanfdemo.h
+	"stdio.h"
+	"stdlib.h"
+
+1497533371 f:\mycppworkspace\filedemo_c\fseekandftelldemo.h
+	"stdio.h"
+	"stdlib.h"
+

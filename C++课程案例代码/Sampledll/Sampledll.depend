@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1496891772 source:f:\mycppworkspace\sampledll\main.c
+	"com_xuetang9_kenny_Sample.h"
+
+1496893355 f:\mycppworkspace\sampledll\com_xuetang9_kenny_sample.h
+	<jni.h>
+
+1495162895 c:\program files\java\jdk1.8.0_131\include\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1495162895 c:\program files\java\jdk1.8.0_131\include\win32\jni_md.h
+

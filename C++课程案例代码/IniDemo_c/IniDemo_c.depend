@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1497273983 source:f:\mycppworkspace\inidemo_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileOp.h"
+	"strtok.h"
+
+1497262405 f:\mycppworkspace\inidemo_c\fileop.h
+
+1497267708 f:\mycppworkspace\inidemo_c\strtok.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
