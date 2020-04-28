@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477141849 source:d:\cspace\monkeydemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

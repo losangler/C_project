@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478778775 source:d:\cspace\hotaldemo\hotal.c
+	<stdio.h>
+	"hotal.h"
+
+1478779236 d:\cspace\hotaldemo\hotal.h
+
+1478779428 source:d:\cspace\hotaldemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hotal.h"
+

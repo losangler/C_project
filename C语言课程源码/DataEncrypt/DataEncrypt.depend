@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478868381 source:d:\cspace\dataencrypt\main.c
+	<stdio.h>
+	<stdlib.h>
+

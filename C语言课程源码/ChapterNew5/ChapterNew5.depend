@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479129259 source:d:\cspace\chapternew5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hero.h"
+
+1479129606 source:d:\cspace\chapternew5\hero.c
+	"Hero.h"
+
+1479209162 d:\cspace\chapternew5\hero.h
+	<stdio.h>
+	<stdlib.h>
+

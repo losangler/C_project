@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1479817422 source:d:\cspace\myjianghudemov0.1\game.c
+	"Game.h"
+
+1479819124 d:\cspace\myjianghudemov0.1\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"GameLib.h"
+
+1479732406 source:d:\cspace\myjianghudemov0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"GameLib.h"
+	"Game.h"
+
+1479731703 source:d:\cspace\myjianghudemov0.1\gamelib.c
+	"GameLib.h"
+
+1479729684 d:\cspace\myjianghudemov0.1\gamelib.h
+	<stdio.h>
+	<windows.h>
+
