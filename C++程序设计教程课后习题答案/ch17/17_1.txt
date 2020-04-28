@@ -1,0 +1,17 @@
+class A{
+public:
+  int GetpA(){ return pA; }
+  void SetpA(int a){ pA=a; }
+private:
+  int pA;
+};
+
+class B :public A{
+public:
+  void OnB(){}
+};
+
+class C :virtual public A, virtual public B{
+public:
+  Sc(){  /*use GetpA() and SetpA()... */ }
+};

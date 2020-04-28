@@ -1,0 +1,22 @@
+//14_1
+
+Multi[0] is:0
+Multi[1] is:1
+Multi[2] is:4
+Multi[3] is:9
+Multi[4] is:16
+Multi[5] is:25
+Multi[6] is:36
+Multi[7] is:49
+Multi[8] is:64
+Multi[9] is:81
+Destroying..9
+Destroying..8
+Destroying..7
+Destroying..6
+Destroying..5
+Destroying..4
+Destroying..3
+Destroying..2
+Destroying..1
+Destroying..0

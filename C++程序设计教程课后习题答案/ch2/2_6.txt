@@ -1,0 +1,15 @@
+1)
+please input 3 sides of one triangle:
+6,6,8
+a=   6.00,b=   6.00,c=   8.00
+area of triangle is   17.88854
+
+2)
+该程序计算三角形的面积
+前后分为三部分：输入，处理，输出。
+
+3)
+见2_6.cpp
+
+4)
+见2_6f.cpp

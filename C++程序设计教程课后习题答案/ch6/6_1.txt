@@ -1,0 +1,37 @@
+//6_1
+
+(1)
+//file1.cpp
+int x=1;
+int func()
+{
+  //...
+}
+
+//file2.cpp
+extern int x;
+int func();
+void g()
+{
+  x=func();
+}
+
+//file3.cpp
+extern int x=2;   //error: extern int变量若有赋值，则成定义
+int g();          //error: 函数声明与前面不一致
+void main()
+{
+  x=g();
+  //...
+}
+
+(2)
+//file1.cpp
+int x=5;
+int y=8;
+extern int z;
+
+//file2.cpp
+int x;            //error: int x;重复定义
+extern double y;  //error: y同一名字不同类型定义
+extern int z;     //error: z只有声明，却无定义

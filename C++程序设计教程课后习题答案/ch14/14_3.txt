@@ -1,0 +1,15 @@
+//14_3
+
+//运行结果为：
+create a X object with 1
+create a X object with 2     //创建临时对象
+call a func with para X object
+create a X object from other X object
+erase a object               //析构临时对象
+create a X object from other X object
+call a func with para X object
+create a X object from other X object
+erase a object
+erase a object
+erase a object
+erase a object

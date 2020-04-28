@@ -1,0 +1,8 @@
+(1)
+sqrt(pow(sin(x),2.5))
+
+(2)
+(a*x+(a+x)/(4*a))/2
+
+(3)
+pow(c,x*x)/sqrt(2*M_PI)     //M_PI为BC中math.h中的圆周率常数

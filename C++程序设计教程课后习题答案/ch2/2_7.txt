@@ -1,0 +1,12 @@
+In main():
+Enter two numbers:
+3 8
+
+Calling add():
+In add(),received 3 and 8
+and return 11
+
+Back in main():
+c was set to 11
+
+Exiting...
