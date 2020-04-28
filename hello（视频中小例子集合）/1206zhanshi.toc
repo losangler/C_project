@@ -1,0 +1,30 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}\LaTeX -你的论文排版黑科技}{5}% 
+\contentsline {subsection}{\numberline {1.0.1}讲座简介}{5}% 
+\contentsline {subsection}{\numberline {1.0.2}讲座对象}{5}% 
+\contentsline {subsection}{\numberline {1.0.3}讲座大纲}{5}% 
+\contentsline {subsection}{\numberline {1.0.4}讲座要求}{6}% 
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}ZHCJHVKHJKLN}{7}% 
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}模式识别简介}{9}% 
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}模式识别的分类}{11}% 
+\contentsline {section}{\numberline {4.1}监督模式识别}{11}% 
+\contentsline {subsection}{\numberline {4.1.1}定义}{11}% 
+\contentsline {subsection}{\numberline {4.1.2}决策树}{11}% 
+\contentsline {section}{\numberline {4.2}非监督模式识别}{11}% 
+\contentsline {subsection}{\numberline {4.2.1}定义}{11}% 
+\contentsline {subsection}{\numberline {4.2.2}C均值算法}{11}% 
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}总结}{13}% 
+\contentsline {section}{\numberline {5.1}练习示范区域}{13}% 
+\contentsline {subsection}{\numberline {5.1.1}测试练习}{13}% 
+\contentsline {subsection}{\numberline {5.1.2}公式练习区域}{13}% 
+\contentsline {subsubsection}{行间公式}{13}% 
+\contentsline {subsubsection}{无标号单行公式}{13}% 
+\contentsline {subsubsection}{是否带编码的练习：}{13}% 
+\contentsline {subsubsection}{由$ mythtype $写入的数学公式}{14}% 
+\contentsline {subsubsection}{细微区别}{14}% 
+\contentsline {subsubsection}{在\LaTeX 中多个行间公式输入}{14}% 
+\contentsline {subsection}{\numberline {5.1.3}插入图画练习}{14}% 
+\contentsline {subsubsection}{普通表格的制作}{15}% 
+\contentsline {subsection}{\numberline {5.1.4}表格练习示范}{16}% 
+\contentsline {subsubsection}{在excel中导出表格}{16}% 
+\contentsline {subsubsection}{表格练习题答案}{17}% 
+\contentsline {subsubsection}{交叉引用练习}{17}% 
