@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1477576274 source:d:\cspace\emperordemo\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<windows.h>
-	<mmsystem.h>
-

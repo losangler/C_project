@@ -1,5 +1,0 @@
-//12_3.txt
-
-//¼ûemploy.h
-//  employ.cpp
-

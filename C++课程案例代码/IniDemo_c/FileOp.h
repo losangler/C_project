@@ -1,6 +1,0 @@
-#ifndef FILEOP_H_INCLUDED
-#define FILEOP_H_INCLUDED
-
-
-
-#endif // FILEOP_H_INCLUDED

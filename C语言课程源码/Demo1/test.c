@@ -1,2 +1,0 @@
-
-int counter = 9;

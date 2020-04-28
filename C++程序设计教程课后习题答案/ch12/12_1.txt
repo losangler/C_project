@@ -1,6 +1,0 @@
-Constructing normally.
-Constructing with a number: 20
-Display a number: 1
-Display a number: 20
-Destructing.
-Destructing.
